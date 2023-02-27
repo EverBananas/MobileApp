@@ -1,16 +1,16 @@
 [
     {
         "name": "A Tale of Two Cities",
-        "audioFile" : "ATaleofTwoCities.mp3",
-        "jsonFile": "ATaleofTwoCities.json",
-        "thumbnail" : "ATaleofTwoCities.png",
+        "audioFile" : "https://github.com/EverBananas/MobileApp/blob/main/ATaleofTwoCities.mp3?raw=true",
+        "jsonFile": "https://github.com/EverBananas/MobileApp/blob/main/ATaleofTwoCities.json?raw=true",
+        "thumbnail" : "https://github.com/EverBananas/MobileApp/blob/main/ATaleofTwoCities.png?raw=true",
         "description" : "The Charles Dicken's classic which deals with the major themes of duality, revolution, and resurrection."
     },
     {
         "name": "Let's Go to the Firehouse",
-        "audioFile" : "firehouse2.mp3",
-        "jsonFile": "firehouse2.json",
-        "thumbnail" : "firehouse.png",
+        "audioFile" : "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.mp3?raw=true",
+        "jsonFile": "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.json?raw=true",
+        "thumbnail" : "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.png?raw=true",
         "description" : "The lads visit a fire station and Goofy regales them with his tales of bravery."
     }
 ]
