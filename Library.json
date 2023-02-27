@@ -10,7 +10,7 @@
         "name": "Let's Go to the Firehouse",
         "audioFile" : "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.mp3?raw=true",
         "jsonFile": "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.json?raw=true",
-        "thumbnail" : "https://github.com/EverBananas/MobileApp/blob/main/firehouse2.png?raw=true",
+        "thumbnail" : "https://github.com/EverBananas/MobileApp/blob/main/firehouse.png?raw=true",
         "description" : "The lads visit a fire station and Goofy regales them with his tales of bravery."
     }
 ]
